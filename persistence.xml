@@ -16,9 +16,9 @@
 			<property name="javax.persistence.jdbc.url" 
 				value="jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL" />
 			<property name="javax.persistence.jdbc.user" 
-				value="RM83853" />
+				value="RM83738" />
 			<property name="javax.persistence.jdbc.password"
-				value="220395" />
+				value="180395" />
 			<property name="hibernate.hbm2ddl.auto" value="update" />
 			<property name="hibernate.show_sql" value="true" />
 			<property name="hibernate.format_sql" value="true" />
